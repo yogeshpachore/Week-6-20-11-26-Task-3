@@ -1,0 +1,198 @@
+[
+  {
+    "timestamp": "2026-11-20T22:16:14.251381",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 27deff5b",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:16:14.541845",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 73d64775",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:16:14.608521",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:16:14.615212",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: latency breach",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:18:08.252577",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 27deff5b",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:18:08.625277",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 73d64775",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:18:08.675056",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as current active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:18:08.685810",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: production latency SLA breach in v2.0.0",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:06.518671",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 27deff5b",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:06.983497",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 73d64775",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:07.087431",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as current active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:07.107449",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: production latency SLA breach in v2.0.0",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:22.547128",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 778f5dc5",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:22.982981",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 5fa3f359",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:23.070663",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as current active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:19:23.093099",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: production latency SLA breach in v2.0.0",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:23:05.579696",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 27deff5b",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:23:05.824451",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 73d64775",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:23:05.882556",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as current active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:23:05.890339",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: production latency SLA breach in v2.0.0",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:31:07.307167",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 778f5dc5",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:31:07.889607",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 5fa3f359",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:31:08.023767",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as current active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:31:08.048339",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: production latency SLA breach in v2.0.0",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:34:07.363593",
+    "action": "REGISTER_MODEL",
+    "version": "v1.0.0",
+    "details": "model v1.0.0 registered with sha256 checksum 778f5dc5",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:34:07.857234",
+    "action": "REGISTER_MODEL",
+    "version": "v2.0.0",
+    "details": "model v2.0.0 registered with sha256 checksum 5fa3f359",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:34:07.971177",
+    "action": "DEPLOY_TO_PRODUCTION",
+    "version": "v2.0.0",
+    "details": "version v2.0.0 deployed as current active production model",
+    "author": "mlops-system"
+  },
+  {
+    "timestamp": "2026-11-20T22:34:08.004416",
+    "action": "ROLLBACK",
+    "version": "v1.0.0",
+    "details": "rolled back from v2.0.0 to v1.0.0. reason: production latency SLA breach in v2.0.0",
+    "author": "mlops-system"
+  }
+]

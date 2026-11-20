@@ -1,0 +1,35 @@
+{
+  "v1.0.0": {
+    "version": "v1.0.0",
+    "created_at": "2026-11-20T22:34:07.360049",
+    "status": "production",
+    "metrics": {
+      "mse": 0.0149,
+      "mae": 0.0908,
+      "r2": 0.2095
+    },
+    "params": {
+      "model_type": "Ridge",
+      "alpha": 1.0
+    },
+    "artifact_path": "model_registry/model_v1.0.0.joblib",
+    "checksum_sha256": "778f5dc59c35531f6edc4805743f080689286c6331e5ff33cea19dd9f1a437d5"
+  },
+  "v2.0.0": {
+    "version": "v2.0.0",
+    "created_at": "2026-11-20T22:34:07.854512",
+    "status": "rolled_back",
+    "metrics": {
+      "mse": 0.0143,
+      "mae": 0.0892,
+      "r2": 0.2426
+    },
+    "params": {
+      "model_type": "RandomForestRegressor",
+      "n_estimators": 100,
+      "max_depth": 8
+    },
+    "artifact_path": "model_registry/model_v2.0.0.joblib",
+    "checksum_sha256": "5fa3f359959bc93b309a42a20b193f389aa88bb947abc2659993284827625ec9"
+  }
+}
